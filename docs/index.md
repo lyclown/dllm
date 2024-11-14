@@ -21,7 +21,7 @@ hero:
 <div class="book-list">
   <div class="book-card">
     <a href="/bllm/">
-      <img src="/bllm/images/cover.png" alt="技术书 A" class="book-cover" />
+      <img src="./bllm/images/cover.png" alt="技术书 A" class="book-cover" />
     </a>
     <p>这是一本关于技术主题的书，包含详细的技术文章。</p>
   </div>
